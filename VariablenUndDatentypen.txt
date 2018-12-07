@@ -1,0 +1,1 @@
+Variablen sind Platzhalter (Container) für Werte, Daten, Informationen, auf die wir jederzeit innerhalb unseres Programmcodes zugreifen können, um sodann mit ihnen arbeiten und sie gegebenenfalls auch modifizieren können.
