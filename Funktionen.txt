@@ -1,1 +1,10 @@
 Funktionen stellen einen ganz wesentlichen Baustein innerhalb von Programmcodes dar, sie können als eigenständige kleine Blöcke angesehen werden, die nach entsprechendem Aufruf (Call) bestimmte Anweisungen ausführen.
+
+func calcArea(width: Double, height: Double) -> Double {
+    let area = width * height
+    return area
+}
+
+print(calcArea(width: 6.1, height: 3.0))
+
+=> // 18.3
